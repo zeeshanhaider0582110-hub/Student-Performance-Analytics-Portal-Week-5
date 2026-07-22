@@ -2,7 +2,7 @@
 
 # EduTrack — Student Performance Analytics Portal
 
-A fully responsive front-end web application built using HTML5, CSS3, and JavaScript as part of a Web Development Internship — Weeks 1 through 5.
+A fully responsive front-end web application built using HTML5, CSS3, and JavaScript as part of a Web Development Internship — Weeks 5.
 
 ---
 
